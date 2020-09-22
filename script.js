@@ -1,5 +1,5 @@
 // Minha API KEY
-import chave from './chave.js'
+import chave from './chaves.js'
 
 var api_Key = {
   key: chave
